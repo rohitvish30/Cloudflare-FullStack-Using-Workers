@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "internship3"
 type = "javascript"
-account_id = ""
+account_id = "693aa08d523ed2fa8a9d356a7c17c089"
 workers_dev = true
 route = ""
 zone_id = ""
